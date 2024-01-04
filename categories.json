@@ -1,0 +1,54 @@
+[
+    {
+        "id": "0",
+        "name": "All Categories"
+    },
+    {
+        "id": "1",
+        "name": "Women's & Girls' Fashion"
+    },
+    {
+        "id": "2",
+        "name": "Health & Beauty"
+    },
+    {
+        "id": "3",
+        "name": "Watches, Bags, Jewellery"
+    },
+    {
+        "id": "4",
+        "name": "Men's & Boys' Fashion"
+    },
+    {
+        "id": "5",
+        "name": "Mother & Baby"
+    },
+    {
+        "id": "6",
+        "name": "Electronics Devices"
+    },
+    {
+        "id": "7",
+        "name": "TV & Home Appliances"
+    },
+    {
+        "id": "8",
+        "name": "Electronic Accessories"
+    },
+    {
+        "id": "9",
+        "name": "Groceries"
+    },
+    {
+        "id": "10",
+        "name": "Home & Lifestyle"
+    },
+    {
+        "id": "11",
+        "name": "Sports & Outdoors"
+    },
+    {
+        "id": "12",
+        "name": "Automotive & Motorbike"
+    }
+]
