@@ -1,54 +1,50 @@
 [
     {
         "id": "0",
-        "name": "All Categories"
-    },
-    {
-        "id": "1",
         "name": "Women's & Girls' Fashion"
     },
     {
-        "id": "2",
+        "id": "1",
         "name": "Health & Beauty"
     },
     {
-        "id": "3",
+        "id": "2",
         "name": "Watches, Bags, Jewellery"
     },
     {
-        "id": "4",
+        "id": "3",
         "name": "Men's & Boys' Fashion"
     },
     {
-        "id": "5",
+        "id": "4",
         "name": "Mother & Baby"
     },
     {
-        "id": "6",
+        "id": "5",
         "name": "Electronics Devices"
     },
     {
-        "id": "7",
+        "id": "6",
         "name": "TV & Home Appliances"
     },
     {
-        "id": "8",
+        "id": "7",
         "name": "Electronic Accessories"
     },
     {
-        "id": "9",
+        "id": "8",
         "name": "Groceries"
     },
     {
-        "id": "10",
+        "id": "9",
         "name": "Home & Lifestyle"
     },
     {
-        "id": "11",
+        "id": "10",
         "name": "Sports & Outdoors"
     },
     {
-        "id": "12",
+        "id": "11",
         "name": "Automotive & Motorbike"
     }
 ]
